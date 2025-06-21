@@ -1,4 +1,4 @@
-package com.rocketseat.service_one;
+package com.rocketseat.service.tasks;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.web.bind.annotation.GetMapping;
